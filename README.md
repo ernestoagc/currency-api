@@ -1,4 +1,4 @@
-# MESSAGE API
+# CURRENCY API
 
 #### **1. Running backend application (DOCKER)**
 Vamos a crear dos contenedores para que la aplicación se pueda ejecutar correctamente. Una es para la base de datos y la segunda para la aplicación. Para ello utilizaremos docker compose
